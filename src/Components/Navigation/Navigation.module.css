@@ -1,0 +1,18 @@
+.nav {
+    display: flex;
+    justify-content: center;
+    background: #6c63ff;
+    padding: 10px;
+}
+
+.link {
+    color: white;
+    text-decoration: none;
+    margin: 0 15px;
+    font-size: 18px;
+    transition: color 0.3s;
+}
+
+.link:hover {
+    color: #f5f7fa;
+}
